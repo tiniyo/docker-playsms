@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Anton Raharja <antonrd@gmail.com>
+MAINTAINER Tiniyo Team <admin@tiniyo.com>
 
 # debs
 ENV DEBIAN_FRONTEND noninteractive
